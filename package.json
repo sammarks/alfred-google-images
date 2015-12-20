@@ -1,0 +1,24 @@
+{
+  "name": "alfred-google-images",
+  "version": "1.0.0",
+  "description": "A more sophisticated Google Images search for Alfred.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sammarks/alfred-google-images.git"
+  },
+  "author": "Samuel Marks <sam@sammarks.me>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sammarks/alfred-google-images/issues"
+  },
+  "homepage": "https://github.com/sammarks/alfred-google-images#readme",
+  "dependencies": {
+    "alfred-workflow-nodejs": "^1.1.0",
+    "lodash": "^3.10.1",
+    "phantom": "^0.8.4"
+  }
+}
